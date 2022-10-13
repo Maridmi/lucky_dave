@@ -1,0 +1,127 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dave_3.tmx",
+    "expandedProjectPaths": [
+        "venv/Lib/site-packages/arcade/resources/tiled_maps",
+        "venv/Lib/site-packages",
+        "venv/Lib/site-packages/arcade/resources",
+        "venv/Lib",
+        "venv",
+        "venv/Lib/site-packages/arcade",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "TX Tileset Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dave.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1630,
+                "y": 1166
+            }
+        },
+        "dave_1.tmx": {
+            "expandedObjectLayers": [
+                13,
+                8,
+                11
+            ],
+            "scale": 0.25,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1774,
+                "y": 782
+            }
+        },
+        "dave_2.tmx": {
+            "expandedObjectLayers": [
+                11,
+                10,
+                13,
+                8
+            ],
+            "scale": 0.27263020833333335,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1538.714299360015,
+                "y": 706.0846308147865
+            }
+        },
+        "dave_3.tmx": {
+            "expandedObjectLayers": [
+                23
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1280.3030303030305,
+                "y": 656.0606060606061
+            }
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/dirt.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/grass.json": {
+            "scaleInDock": 1
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/items.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/map_with_ladders.json": {
+            "scale": 0.3737132352941176,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1249.6212493851453,
+                "y": 1087.7324151500247
+            }
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/more_tiles.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/standard_tileset.json": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/test_objects.json": {
+            "scale": 0.31765625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1282.833251352681,
+                "y": 1282.8332513526807
+            }
+        }
+    },
+    "map.height": 11,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 30,
+    "openFiles": [
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/standard_tileset.json",
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/map_with_ladders.json",
+        "dave_1.tmx",
+        "dave_3.tmx"
+    ],
+    "project": "dave.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/standard_tileset.json",
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/map_with_ladders.json",
+        "dave_1.tmx",
+        "dave_3.tmx",
+        "venv/Lib/site-packages/arcade/resources/tiled_maps/test_objects.json",
+        "dave.tmx",
+        "TX Tileset Ground.tsx"
+    ]
+}
